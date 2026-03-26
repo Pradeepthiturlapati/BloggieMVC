@@ -13,14 +13,13 @@ The project integrates Entity Framework Core for database management and uses SQ
      📱 Responsive UI using Bootstrap
      🗂️ Structured MVC architecture
 # 🛠️ Technologies Used
-   ASP.NET Core MVC
-   C#
-   Entity Framework Core
-   SQL Server
-   HTML, CSS, Bootstrap
+      ASP.NET Core MVC
+      C#
+      Entity Framework Core
+      SQL Server
+      HTML, CSS, Bootstrap
 # 🏗️ Architecture
-This project follows the MVC (Model-View-Controller) pattern:
-
-  Model → Handles data and database interactions 
-  View → Manages UI and presentation
-  Controller → Handles business logic and user requests
+      This project follows the MVC (Model-View-Controller) pattern:
+       Model → Handles data and database interactions 
+       View → Manages UI and presentation
+       Controller → Handles business logic and user requests
